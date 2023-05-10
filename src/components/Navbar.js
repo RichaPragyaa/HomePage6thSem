@@ -36,7 +36,7 @@ export default function Navbar() {
           </li>
 
           <li className="nav-item">
-            <a className="nav-link" href="https://rittikabose.github.io/recipecalorietracker.github.io/">Health</a>
+            <a className="nav-link" href="https://rittikabose.github.io/recipecalorietracker.github.io">Health</a>
           </li>
 
           <li className="nav-item">
